@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiQuizPro</string>
+    <string name="Correct">Correcto</string>
+    <string name="Mistake">fallo</string>
+    <string name="Next">siguiente</string>
+    <string name="Previus">Anterior</string>
+    <string name="check">Califica</string>
+    <string name="finish">Final</string>
+    <string name="question">Pregunta</string>
+    <string name="resultados">Resultados</string>
+    <string name="star_over">Volver</string>
+</resources>

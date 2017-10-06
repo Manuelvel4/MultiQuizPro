@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MultiQuizPro</string>
+    <string name="question">question</string>
+    <string name="check">check</string>
+
+    <string name="Correct">Correct</string>
+    <string name="Mistake">Mistake</string>
+    <string name="Next">Next</string>
+    <string name="finish">finish</string>
+    <string name="Previus">Previus</string>
+    <string name="resultados">Resolts</string>
+    <string name="star_over">Return</string>
+
+    // tabla de strings
+
+    <array name="all_question">
+
+        <item>Capital de Ecuador?;*Quito;Tsunami;Sucre;Ambato</item>
+        <item>Capital de Holanda? ;*Amsterdam;Madrid;cdjdj;hola</item>
+        <item>Capital de Bosnia-Herzegovina?;Valencia;*Sarajevo;Madrid;Munich</item>
+        <item>Capital de España?;*Madrid;Barcelona;Canarias;Francia</item>
+        <item>Capital de Alemania?;Valencia;*Berlin;Liec;Munich</item>
+        <item>Capital de Albania?;Valencia;*Tirana;Madrid;Munich</item>
+        <item>Capital de Andorra?;*Andorra la bella;Tirana;Madrid;Munich</item>
+        <item>Capital de Austria?;Valencia;*Viena;Madrid;Munich</item>
+        <item>Capital de Bielorrussia?;Valencia;*Minsk;Madrid;Munich</item>
+        <item>Capital de Belgica?;Valencia;*Bruselas;Madrid;Munich</item>
+        <item>Capital de Bulgaria?;Valencia;*Sofia;Madrid;Munich</item>
+        <item>Capital de Croacia?;Valencia;sajsnjas;Madrid;*Zagreb</item>
+
+
+
+
+
+
+
+
+
+
+    </array>
+
+
+</resources>
